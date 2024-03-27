@@ -82,12 +82,24 @@ Ce dépôt est une structure permettant de démarrer un projet professionnel ou 
 </details>
 
 ## Author
-
+-RenaudBaussart
 ## License
 
 Distributed under the MIT License. `LICENSE` See for more information.
 
 ## Ressource
 
+<<<<<<< HEAD
 
+
+
+
+
+
+Hello, I'm Nicolas
+
+=======
 Hello World!
+
+HUGO - HELLO
+>>>>>>> 6d1ae50bd5ad686bbf4be2d1d44cb0eba4509336

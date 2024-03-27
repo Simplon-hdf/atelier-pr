@@ -4,7 +4,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/Simplon-hdf/structure-projet?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/Simplon-hdf/structure-projet?style=for-the-badge)
 
-<h1 align="center">Project name</h1>
+<h1 align="center">AtelierPr</h1>
 
 <div align="center">
 
@@ -82,22 +82,23 @@ Ce dépôt est une structure permettant de démarrer un projet professionnel ou 
 </details>
 
 ## Author
-
+-RenaudBaussart
 ## License
 
 Distributed under the MIT License. `LICENSE` See for more information.
 
 ## Ressource
 
+<<<<<<< HEAD
+
+
+
+
+
+
+Hello, I'm Nicolas
+
+=======
 Hello World!
 
 HUGO - HELLO
-
-Bonjour le monde! Flo
-
-
-
-
-
-
-

@@ -83,6 +83,7 @@ Ce dépôt est une structure permettant de démarrer un projet professionnel ou 
 
 ## Author
 -RenaudBaussart
+Jonathan 
 ## License
 
 Distributed under the MIT License. `LICENSE` See for more information.
